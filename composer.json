@@ -1,5 +1,12 @@
 {
-  "require": {
-  	 "noahbuscher/macaw": "dev-master"
+    "require": {
+  	   "noahbuscher/macaw": "dev-master",
+  	   "illuminate/database": "*"
+    },
+    "autoload": {
+    	"classmap": [
+      		"app/controllers",
+      		"app/models"
+    	]
   }
 }
