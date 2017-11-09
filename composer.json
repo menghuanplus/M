@@ -1,8 +1,8 @@
 {
     "require": {
-       "php": ">=5.4.0",
-  	   "noahbuscher/macaw": "dev-master",
-  	   "illuminate/database": "*"
+        "php": ">=5.4.0",
+        "noahbuscher/macaw": "dev-master",
+  	    "illuminate/database": "*"
     },
     "autoload": {
     	"classmap": [
