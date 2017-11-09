@@ -1,4 +1,4 @@
-# M Framework
+# Magic Framework
 
 > 轻量级练手的PHP框架
 
@@ -6,7 +6,7 @@
 
 1、下载代码
 
-	git clone https://github.com/menghuanplus/m.git
+	git clone https://github.com/menghuanplus/magic.git
 
 2、安装依赖
 
