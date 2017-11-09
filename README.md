@@ -1,6 +1,6 @@
 # Magic Framework
 
-> 轻量级练手的PHP框架
+> 轻量级PHP框架
 
 ## 框架特色
 
