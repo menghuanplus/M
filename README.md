@@ -16,7 +16,7 @@
 
 2、安装依赖
 
-	cd m && composer update
+	cd magic && composer update
 
 3、运行
 
