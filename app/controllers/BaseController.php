@@ -15,7 +15,6 @@ class BaseController
 		require dirname(__FILE__).'/../views/'.$filePath.'.php';
 	}
 
-	// 包含模板
 	public function render($filePath)
 	{
 		require dirname(__FILE__).'/../views/public/'.$filePath.'.php';
