@@ -1,23 +1,10 @@
 # Magic Framework
 
-## 简介
+git clone https://github.com/menghuanplus/magic.git
 
-使用 Composer，安装、替换组件
-推荐使用 Vuejs 渲染
+cd magic && composer update
 
-## 开始使用
-
-1 克隆代码  
-
-  git clone https://github.com/menghuanplus/magic.git
-
-2 安装组件  
-
-  cd magic && composer update
-
-3 运行  
-
-  cd public && php -S 127.0.0.1:3000
+cd public && php -S 127.0.0.1:3000
 
 [访问 http://127.0.0.1:3000](http://127.0.0.1:3000)
 
